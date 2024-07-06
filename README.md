@@ -12,8 +12,11 @@
 
 ## Here is a demo of the line follower robot
 <p align="center">
-<video src="./linefollowerdemo.mp4" width="320" height="600" controls></video>
+https://github.com/JoshuaChan2024/Robotics-CCA/assets/174886302/e2d8c442-32d2-4efb-b78f-6c09acd2b75d
 </p>
+
+
+
 
 <p align="center">
   <br />
