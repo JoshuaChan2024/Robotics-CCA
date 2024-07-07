@@ -1,5 +1,5 @@
 # Robotics CCA
-### I joined the Robotics Club during my first year in ITE. Here is a demo of a line follower robot I made using makeblock and Scratch.
+### I am joined the Robotics Club since my first year in ITE. Here is a demo of a line follower robot I made using Makeblock and Scratch.
 
 <p align="center">
     <img src="https://img.shields.io/badge/Scratch-20232A?style=for-the-badge&logo=scratch&logoColor=4D97FF" alt="scratch" />
